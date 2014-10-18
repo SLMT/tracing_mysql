@@ -1,7 +1,5 @@
 # MyISAM Storage Engine
 
-## Introduction
-
 MyISAM 是 MySQL 下層的其中一種 Storage Engine。
 
 ## Files
